@@ -1,21 +1,21 @@
 [
-     {
-        "date": "2025-04-01",
-        "title": "Amazon Price Calculator hinzugefügt
-        "build": "Beta 0.2",
-        "details": [
-            "Amazon Preis Rechner hinzugefügt",
-            "GUI Update",
-        ]
-    }
-    {
-        "date": "2025-03-28",
-        "title": "Amazon ToolBox Beta release",
-        "build": "Beta 0.1",
-        "details": [
-            "Amazon ToolBox beta build gestartet",
-            "GUI Update",
-            "Dark Mode-kompatibles UI hinzugefügt"
-        ]
-    }
+  {
+    "date": "2025-04-01",
+    "title": "Amazon Price Calculator hinzugefügt",
+    "build": "Beta 0.2",
+    "details": [
+      "Amazon Preis Rechner hinzugefügt",
+      "GUI Update"
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "title": "Amazon ToolBox Beta release",
+    "build": "Beta 0.1",
+    "details": [
+      "Amazon ToolBox beta build gestartet",
+      "GUI Update",
+      "Dark Mode-kompatibles UI hinzugefügt"
+    ]
+  }
 ]
