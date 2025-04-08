@@ -6,7 +6,8 @@
     "details": [
       "Amazon Reverse Preis Rechner hinzugefügt",
       "GUI Update",
-      "Kleinere Bugfixes"
+      "Kleinere Bugfixes",
+      ""
     ]
   },
   {
@@ -15,7 +16,8 @@
     "build": "Beta 0.2",
     "details": [
       "Amazon Preis Rechner hinzugefügt",
-      "GUI Update"
+      "GUI Update",
+      ""
     ]
   },
   {
@@ -25,7 +27,8 @@
     "details": [
       "Amazon ToolBox beta build gestartet",
       "GUI Update",
-      "Dark Mode-kompatibles UI hinzugefügt"
+      "Dark Mode-kompatibles UI hinzugefügt",
+      ""
     ]
   }
 ]
