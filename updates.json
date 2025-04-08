@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-04-08",
+    "title": "Amazon Reverse Price Calculator hinzugefügt",
+    "build": "Beta 0.3",
+    "details": [
+      "Amazon Reverse Preis Rechner hinzugefügt",
+      "GUI Update"
+      "Kleinere Bugfixes"
+    ]
+  },
+  {
     "date": "2025-04-01",
     "title": "Amazon Price Calculator hinzugefügt",
     "build": "Beta 0.2",
