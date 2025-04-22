@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-04-22",
+    "title": "Image ZIP & Rename Tool hinzugefügt",
+    "build": "Beta 0.3",
+    "details": [
+      "Mehrere Artikel & Länder gleichzeitig zippen",
+      "Automatische ASIN-Zuordnung",
+      "Automatische & manuelle Main-Bilder",
+      "Fortschrittsanzeige mit Statusfarben",
+      "Amazon-konforme Umbenennung",
+      "Fehlerbehandlung bei fehlender ASIN oder Bildern"
+    ]
+  },
+  {
     "date": "2025-04-08",
     "title": "Amazon Reverse Price Calculator hinzugefügt",
     "build": "Beta 0.3",
