@@ -1,5 +1,14 @@
 [
   {
+    "date": "2025-04-29",
+    "title": "Lizenzkey & Updater Bug entfernt",
+    "build": "Beta 0.45",
+    "details": [
+      "Lizenzkey Bug entfernt",
+      "Updater Button Bug entfernt"
+    ]
+  },
+  {
     "date": "2025-04-22",
     "title": "Image ZIP & Rename Tool hinzugefügt",
     "build": "Beta 0.4",
