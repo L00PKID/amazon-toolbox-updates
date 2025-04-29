@@ -1,9 +1,12 @@
 [
   {
     "date": "2025-04-29",
-    "title": "Lizenzkey & Updater Bug entfernt",
-    "build": "Beta 0.45",
+    "title": "ASIN Scraper hinzugefügt & Bug fixes",
+    "build": "Beta 0.5",
     "details": [
+      "GUI zur Suche von ASINs inkl. Titel, Preis und Produktbild",
+      "Titel, Preis & ASIN übersichtlich gelistet",
+      "Direktübergabe an Preisrechner mit einem Klick",
       "Lizenzkey Bug entfernt",
       "Updater Button Bug entfernt"
     ]
