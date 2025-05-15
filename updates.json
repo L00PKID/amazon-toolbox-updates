@@ -1,4 +1,14 @@
 [
+   {
+    "date": "2025-05-15",
+    "title": "Image ZIP und Price Calculator Update",
+    "build": "Beta 0.6",
+    "details": [
+      "ZIP Tool: Manuelle ASIN-Eingabe pro Artikelnummer hinzugefügt",
+      "Price Calculator kann nun auf manuell eingegebene Margen berechnen",
+      "Lizenz Ablaufdatum Bug im Hauptmenü gefixed"
+    ]
+  },
   {
     "date": "2025-04-29",
     "title": "ASIN Scraper hinzugefügt & Bug fixes",
