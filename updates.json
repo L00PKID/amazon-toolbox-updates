@@ -1,11 +1,11 @@
 [
    {
     "date": "2025-05-16",
-    "title": "ABildveränderung ZIPTool Update",
+    "title": "Bildveränderung ZIPTool Update",
     "build": "Beta 0.7",
     "details": [
       "Unterstützung für Bilder ohne Endung",
-      "Amazon Double Upload Schutz umgehung durch Randomizer hinzugefügt"
+      "Amazon Double Uploadschutz Umgehung durch Randomizer hinzugefügt"
     ]
   },
    {
