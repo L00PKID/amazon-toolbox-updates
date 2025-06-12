@@ -2,7 +2,7 @@
   {
     "date": "2025-06-12",
     "title": "Version 1.0 offizieller Release",
-    "build": "0.5",
+    "build": "1.0",
     "details": [
       "Offizieller Release",
       "Kleinere Bugfixes im ZIPTool und updater"
